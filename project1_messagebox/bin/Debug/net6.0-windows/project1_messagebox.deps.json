@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "project1_messagebox/1.0.0": {
+        "runtime": {
+          "project1_messagebox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project1_messagebox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
